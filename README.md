@@ -1,1 +1,1 @@
-A technophile, living in terminal, speaking in Bash
+[![Skills:](https://skillicons.dev/icons?i=linux, bash, git, docker)](https://skillicons.dev)
