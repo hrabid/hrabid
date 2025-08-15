@@ -29,6 +29,7 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 ## Documentation
 
 Get in touch my fully documented learning journey.
+
 [![Docs](https://skillicons.dev/icons?i=github,md,obsidian)](https://skillicons.dev)
 ---
 
