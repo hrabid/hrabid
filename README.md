@@ -19,7 +19,7 @@
 
 ## 🛠 Skills
 <!-- Skill Icons -->
-[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim)](https://skillicons.dev&perline=5)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim&perline=5)](https://skillicons.dev)
 
 ## Documentation
 
