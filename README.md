@@ -19,13 +19,13 @@
 
 ## 🛠 Skills
 <!-- Skill Icons -->
-[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim)](https://skillicons.dev&perline=5)
 
 ## Documentation
 
 My fully documented learning journey is Built with:
 
-[![Docs](https://skillicons.dev/icons?i=md,obsidian,github)](https://skillicons.dev)
+[![Docs](https://skillicons.dev/icons?i=md,obsidian,github&perline=5)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
