@@ -14,15 +14,13 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 </p>
 
 <h1 align="center">Hi 👋, I'm Abid</h1>
-<h3 align="center">💻 Aspiring Cloud Engineer | Linux Enthusiast | Security Learner</h3>
+<h3 align="center">Passionate unix/linux enthusiast.On a journey to become a *DevSecOps* Engineer with huge interest in *Security*.</h3>
 
 ---
 
 ## 🚀 About Me
 
-- 🌱 Currently learning **Cloud Computing, Linux, and Cybersecurity**
-- 🔭 Working on: **DevOps tools, Cloud Security projects, and Automation scripts**
-- 🎯 Goal: Build secure, scalable, and privacy-focused applications
+- 🌱 Currently learning **Linux, DevSecOps, Cloud Computing**
 - ⚡ Fun fact: I love tinkering with tech, and I can spend hours debugging happily 😄
 
 ---
@@ -38,7 +36,7 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrabid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrabid&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -46,7 +44,7 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 ## 🏆 Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GH_USERNAME&theme=onedark" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=hrabid&theme=onedark" alt="Trophies" />
 </p>
 
 ---
@@ -55,9 +53,7 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Dotfiles Manager**](https://github.com/YOUR_GH_USERNAME/dotfiles) | Automates setup of my Linux environment | Bash, Linux |
-| [**Cloud Security Lab**](https://github.com/YOUR_GH_USERNAME/cloud-security-lab) | Lab environment for learning cloud security concepts | Docker, Linux |
-| [**NoteSync CLI**](https://github.com/YOUR_GH_USERNAME/notesync) | A CLI tool for encrypted note syncing | Go, Rust |
+| [**Dotfiles**](https://github.com/hrabid/Dotfiles) | Automates setup of my Linux environment | Bash, Linux |
 
 ---
 
@@ -70,4 +66,4 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 ---
 
 <!-- Fun footer -->
-<p align="center">⚡ Keep learning, keep building ⚡</p>
+<p align="center">⚡ Technology is opium of technophiles [hrabid] ⚡</p>
