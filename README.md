@@ -26,6 +26,9 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 <!-- Skill Icons -->
 [![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim)](https://skillicons.dev)
 
+## Documentation
+
+Get in touch my fully documented learning journey.
 [![Docs](https://skillicons.dev/icons?i=github,md,obsidian)](https://skillicons.dev)
 ---
 
