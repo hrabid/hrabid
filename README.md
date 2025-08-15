@@ -2,16 +2,12 @@
 
 Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,bash,neovim,git,docker,go,md,obsidian,twitter,linkedin,discord&perline=5") />
-  </a>
-</p>
-
 <!-- Banner / Header -->
+<!--
 <p align="center">
   <img src="https://your-banner-image-link-here" alt="Banner" />
 </p>
+-->
 
 <h1 align="center">Hi 👋, I'm Abid</h1>
 <h3 align="center">Passionate unix/linux enthusiast.On a journey to become a *DevSecOps* Engineer with huge interest in *Security*.</h3>
@@ -28,15 +24,16 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 ## 🛠 Skills
 
 <!-- Skill Icons -->
-[![My Skills](https://skillicons.dev/icons?i=linux,bash,python,rust,go,docker,nginx,git,github,vscode)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim)](https://skillicons.dev)
 
+[![Docs](https://skillicons.dev/icons?i=github,md,obsidian)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hrabid&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GH_USERNAME&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrabid&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
