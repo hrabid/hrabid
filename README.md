@@ -1,7 +1,3 @@
-# Habibur Rahman Abid
-
-Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
-
 <!-- Banner / Header -->
 <!--
 <p align="center">
@@ -10,7 +6,7 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 -->
 
 <h1 align="center">Hi 👋, I'm Abid</h1>
-<h3 align="center">Passionate unix/linux enthusiast.On a journey to become a *DevSecOps* Engineer with huge interest in *Security*.</h3>
+<h3 align="center">Passionate unix/linux enthusiast.On a journey to become a <b>DevSecOps</b> Engineer with huge interest in <b>Security</b>.</h3>
 
 ---
 
@@ -28,9 +24,9 @@ Passionate unix/linux enthusiast & on a journey to be a DevSecOps Engineer.
 
 ## Documentation
 
-Get in touch my fully documented learning journey.
+Get in touch my fully documented learning journey is Built with:
 
-[![Docs](https://skillicons.dev/icons?i=github,md,obsidian)](https://skillicons.dev)
+[![Docs](https://skillicons.dev/icons?i=md,obsidian,github)](https://skillicons.dev)
 ---
 
 ## 📊 GitHub Stats
