@@ -56,7 +56,7 @@ My fully documented learning journey is Built with:
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/habibur-rahman-abid-828258366)
 [![Twitter](https://img.shields.io/badge/Twitter-black?logo=twitter&logoColor=white)](https://twitter.com/hrabid2)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=firefox&logoColor=white)](https://)
 
