@@ -18,13 +18,12 @@
 ---
 
 ## 🛠 Skills
-
 <!-- Skill Icons -->
 [![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim)](https://skillicons.dev)
 
 ## Documentation
 
-Get in touch my fully documented learning journey is Built with:
+My fully documented learning journey is Built with:
 
 [![Docs](https://skillicons.dev/icons?i=md,obsidian,github)](https://skillicons.dev)
 ---
