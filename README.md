@@ -12,6 +12,7 @@
 
 ## 🚀 About Me
 
+- 📝 Currently Student of
 - 🌱 Currently learning **Linux, DevSecOps, Cloud Computing**
 - ⚡ Fun fact: I love tinkering with tech, and I can spend hours debugging happily 😄
 
