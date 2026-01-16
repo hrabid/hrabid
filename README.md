@@ -38,14 +38,6 @@ My fully documented learning journey is Built with:
 
 ---
 
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hrabid&theme=onedark" alt="Trophies" />
-</p>
-
----
-
 ## 📂 Featured Projects
 
 | Project | Description | Tech |
