@@ -5,7 +5,7 @@
 </p>
 -->
 
-<h1 align="center">Heloo, I'm Abid</h1>
+<h1 align="center">Hello, I'm Abid</h1>
 <h3 align="center">Passionate unix/linux enthusiast.On a journey to become a <b>DevSecOps</b> Engineer with huge interest in <b>Security</b>.</h3>
 
 ---
