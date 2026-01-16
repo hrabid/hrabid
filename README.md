@@ -5,22 +5,22 @@
 </p>
 -->
 
-<h1 align="center">Hi 👋, I'm Abid</h1>
+<h1 align="center">Heloo, I'm Abid</h1>
 <h3 align="center">Passionate unix/linux enthusiast.On a journey to become a <b>DevSecOps</b> Engineer with huge interest in <b>Security</b>.</h3>
 
 ---
 
-## 🚀 About Me
+## About Me
 
-- 📝 Currently Student of
-- 🌱 Currently learning **Linux, DevSecOps, Cloud Computing**
-- ⚡ Fun fact: I love tinkering with tech, and I can spend hours debugging happily 😄
+- Currently Student.
+- Learning **Linux, DevSecOps, Cloud Computing**
+- Fun fact: I love tinkering with tech, and I can spend hours debugging happily 😄
 
 ---
 
-## 🛠 Skills
+## Skills
 <!-- Skill Icons -->
-[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,go,docker,neovim&perline=5)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=linux,arch,bash,git,github,docker,neovim&perline=5)](https://skillicons.dev)
 
 ## Documentation
 
@@ -50,7 +50,7 @@ My fully documented learning journey is Built with:
 
 | Project | Description | Tech |
 |---------|-------------|------|
-| [**Dotfiles**](https://github.com/hrabid/Dotfiles) | Automates setup of my Linux environment | Bash, Linux |
+| [**dotfiles**](https://github.com/hrabid/Dotfiles) | Automates setup of my Linux environment | Bash, Linux |
 
 ---
 
